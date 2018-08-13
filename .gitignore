@@ -1,3 +1,8 @@
+# project custom .gitignore 
+
+app_key*
+user_key*
+config.json
 
 # Created by https://www.gitignore.io/api/vim,emacs,python
 
